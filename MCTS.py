@@ -55,7 +55,7 @@ class Node:
 # Phase 2 ---> Node Expansion
 def treeTraversal(state):
     node = Utils.mcts[state]
-    # This state only has terminal children that have been visited (or it is a terminal state itself), so no need to traverse this state
+    # This state is a terminal state, so no need to traverse this state
     if node.isTerminal:
         return
     
