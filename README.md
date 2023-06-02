@@ -2,7 +2,7 @@
 ***Mastermind*** is an AI-powered Connect-Four board game featuring advanced Monte Carlo Tree Search algorithm. Utilizing optimized bitstring representation and bitwise operations, it delivers exceptional speed and efficiency.
 
 ## Battle Results
-After challenging the Mastermind against real players and other formidable AI opponents set to their **hardest difficulty**, the results of these battles are presented as follows:
+After challenging the Mastermind against real players and other formidable AI opponents set to their ***hardest difficulty***, the results of these battles are presented as follows:
 <table align = "center">
   <thead align = "center">
     <tr>
@@ -50,4 +50,19 @@ After challenging the Mastermind against real players and other formidable AI op
   </tbody>
 </table>
 
-With an impressive average win rate of ***88%*** against different tough opponents, the Mastermind AI demonstrates its remarkable strategic skills.
+With an impressive average win rate of **88%** against different tough opponents, the Mastermind AI demonstrates its remarkable strategic skills.
+
+## GUI Showcase
+Take a glimpse into the interface of the Mastermind AI, designed with elegance using the ***Tkinter*** library of Python, as illustrated in the accompanying image.
+
+<p align = "center">
+	<img src = "Images/Sample_2.png" alt = "Image description">
+</p>
+
+# Installation
+The Connect-Four Mastermind has ***no additional requirements*** beyond the standard Python libraries. Simply follow these steps to get started:
+1. Clone the repository or download the zip file to your local machine.
+2. Ensure you have Python installed (preferably version 3.10 or above).
+3. Run the Main.py file using <code>python Main.py</code>.
+
+That's it! The program will be ready to run without the need for any external dependencies. While Python version 3.10 or above is preferred, the AI should work with other compatible Python versions.
