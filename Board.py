@@ -1,8 +1,5 @@
 from math import inf
-from tkinter.ttk import *
 from tkinter import *
-from tkinter import messagebox
-from tkinter.tix import *
 import time
 import Utils
 
